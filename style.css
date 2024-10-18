@@ -1,0 +1,52 @@
+h1{
+    color: white;
+}
+h1::first-letter{
+    color: red;
+}
+div input{
+    background-color:white;
+    color:red;
+}
+::placeholder{
+    color: red;
+}
+h1 button{
+    background-color:red;
+    color:white ;
+}
+body{
+    background-color: black;
+}
+nav ul{
+    color: red;
+}
+nav>ul>li>a{
+    color: white;
+}
+main p{
+    color: white;
+}
+main h3{
+    color: white;
+}
+main button{
+    background-color: red;
+}
+span button{
+    background-color: white;
+    color: red;
+}
+main button>a{
+    color: white;
+}
+main p{
+    color: red;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+button:hover{
+    color: antiquewhite;
+    background-color: darkgreen;
+}
