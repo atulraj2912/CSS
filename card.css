@@ -1,0 +1,112 @@
+.a{
+    height: 190px;
+    width: 150px;
+    background-color: #D8D2C2;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px #4A4947;
+    text-align: center;
+    color: #4A4947;
+    margin: 25px 0 0 25px;
+    display: inline-block;
+    margin-right: 25px;
+}
+.img{
+    height: 150px;
+    width: 150px;
+    background-image: url("boy.webp");
+    background-size: contain;
+    border-radius: 5px 5px 0 0;
+}
+.a:hover{
+    transform: scale(1.2);
+    transition: ease-in-out 1s;
+    background-color: rgb(49, 34, 34);
+    border-radius: 5px;
+    box-shadow: 20px 20px 30px orangered;
+    text-align: center;
+    color: orangered;
+}
+.b{
+    height: 190px;
+    width: 150px;
+    background-color: #D8D2C2;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px #4A4947;
+    text-align: center;
+    color: #4A4947;
+    margin: 25px 0 0 25px;
+    display: inline-block;
+    margin-right: 25px;
+}
+.img1{
+    height: 150px;
+    width: 150px;
+    background-image: url("boy1.webp");
+    background-size: contain;
+    border-radius: 5px 5px 0 0;
+}
+.b:hover{
+    transform: scale(1.2);
+    transition: ease-in-out 1s;
+    background-color: rgb(229, 229, 229);
+    border-radius: 5px;
+    box-shadow: 20px 20px 30px rgb(35, 29, 29);
+    text-align: center;
+    color: rgb(35, 29, 29);
+}
+.c{
+    height: 190px;
+    width: 150px;
+    background-color: #D8D2C2;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px #4A4947;
+    text-align: center;
+    color: #4A4947;
+    margin: 25px 0 0 25px;
+    display: inline-block;
+    margin-right: 25px;
+}
+.img2{
+    height: 150px;
+    width: 150px;
+    background-image: url("boy2.webp");
+    background-size: contain;
+    border-radius: 5px 5px 0 0;
+}
+.c:hover{
+    transform: scale(1.2);
+    transition: ease-in-out 1s;
+    background-color:rgb(70, 70, 70) ;
+    border-radius: 5px;
+    box-shadow: 20px 20px 30px aqua;
+    text-align: center;
+    color: aqua;
+}
+.d{
+    height: 190px;
+    width: 150px;
+    background-color: #D8D2C2;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px #4A4947;
+    text-align: center;
+    color: #4A4947;
+    margin: 25px 0 0 25px;
+    display: inline-block;
+    margin-right: 25px;
+}
+.img3{
+    height: 150px;
+    width: 150px;
+    background-image: url("boy4.webp");
+    background-size: contain;
+    border-radius: 5px 5px 0 0;
+}
+.d:hover{
+    transform: scale(1.2);
+    transition: ease-in-out 1s;
+    background-color:rgb(134, 131, 131) ;
+    border-radius: 5px;
+    box-shadow: 20px 20px 30px darkgreen;
+    text-align: center;
+    color: darkgreen;
+}

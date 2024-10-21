@@ -1,0 +1,46 @@
+#box1{
+    height: 20px;
+    width: 100px;
+    background-color: black;
+    color: red;
+    text-align: center;
+    box-shadow: 2px 2px 7px red;
+}
+#box1:hover{
+    transition: ease-in 2s;
+    transition-delay: 0.5s;
+    width: 150px;
+    box-shadow: 5px 5px 12px red;
+}
+#box2{
+    height:20px;
+    width: 100px;
+    transform: translate(100px,200px) rotate(90deg);
+    background-color: red;
+    box-shadow: 5px 5px  8px black;
+    text-align: center;
+}
+#box3{
+    height: 20px;
+    width: 100px;
+    background-color: black;
+    color:red;
+    text-align: center;
+    box-shadow: 2px 2px 7px red;
+    transform: skew(20deg,0);
+}
+#box4{
+    height: 20px;
+    width: 100px;
+    background-color:blueviolet;
+    text-align: center;
+    color: darkgreen;
+    box-shadow: 2px 2px 5px darkgreen;
+}
+#myPic{
+    height: 200px;
+    width: 200px;
+    background-image: url("boy.webp");
+    opacity: 0.5;
+    background-size: contain;
+}
