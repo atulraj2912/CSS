@@ -1,0 +1,13 @@
+#outer{
+    height: 700px;
+    width: 1500px;
+    background-color: #FFE1FF;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+}
+#inner{
+    height: 50px;
+    width: 70px;
+    text-align: center;
+}
